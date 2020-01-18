@@ -26,7 +26,7 @@ public class testNGCLASS {
 	
 	@BeforeMethod
 	public void launchBrowser() {
-		System.out.println("launching firefox browser for the 1st time");
+		System.out.println("launching firefox browser for the 2nd time");
 		System.setProperty("webdriver.gecko.driver", driverPath);
 		driver = new FirefoxDriver();
 		driver.get(baseUrl);
