@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29194" started-at="2020-01-16T08:58:30Z" finished-at="2020-01-16T08:58:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29194" started-at="2020-01-16T08:58:30Z" finished-at="2020-01-16T08:58:59Z">
+      <class name="testNGPCK.testNGCLASS">
+        <test-method status="PASS" signature="testEntrance()[pri:0, instance:testNGPCK.testNGCLASS@735b5592]" name="testEntrance" is-config="true" duration-ms="33" started-at="2020-01-16T14:28:30Z" finished-at="2020-01-16T14:28:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEntrance -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testNGPCK.testNGCLASS@735b5592]" name="launchBrowser" is-config="true" duration-ms="10075" started-at="2020-01-16T14:28:30Z" finished-at="2020-01-16T14:28:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="enterCredentials1()[pri:1, instance:testNGPCK.testNGCLASS@735b5592]" name="enterCredentials1" duration-ms="4965" started-at="2020-01-16T14:28:40Z" finished-at="2020-01-16T14:28:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterCredentials1 -->
+        <test-method status="PASS" signature="clickLogout()[pri:0, instance:testNGPCK.testNGCLASS@735b5592]" name="clickLogout" is-config="true" duration-ms="1538" started-at="2020-01-16T14:28:45Z" finished-at="2020-01-16T14:28:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLogout -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testNGPCK.testNGCLASS@735b5592]" name="launchBrowser" is-config="true" duration-ms="6001" started-at="2020-01-16T14:28:46Z" finished-at="2020-01-16T14:28:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="enterCredentials2()[pri:2, instance:testNGPCK.testNGCLASS@735b5592]" name="enterCredentials2" duration-ms="4852" started-at="2020-01-16T14:28:52Z" finished-at="2020-01-16T14:28:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterCredentials2 -->
+        <test-method status="PASS" signature="clickLogout()[pri:0, instance:testNGPCK.testNGCLASS@735b5592]" name="clickLogout" is-config="true" duration-ms="1675" started-at="2020-01-16T14:28:57Z" finished-at="2020-01-16T14:28:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLogout -->
+        <test-method status="PASS" signature="testExit()[pri:0, instance:testNGPCK.testNGCLASS@735b5592]" name="testExit" is-config="true" duration-ms="0" started-at="2020-01-16T14:28:59Z" finished-at="2020-01-16T14:28:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testExit -->
+      </class> <!-- testNGPCK.testNGCLASS -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
